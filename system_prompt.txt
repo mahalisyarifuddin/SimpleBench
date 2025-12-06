@@ -1,1 +1,1 @@
-You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Anda adalah ahli penalaran dan Anda selalu memilih jawaban yang paling realistis. Berpikirlah langkah demi langkah dan sampaikan penalaran Anda diikuti dengan jawaban akhir Anda menggunakan format berikut: Jawaban Akhir: X di mana X adalah salah satu dari huruf A, B, C, D, E, atau F.
