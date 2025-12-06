@@ -17,7 +17,7 @@
     },
     {
       "question_id": 4,
-      "prompt": "Ada dua saudara perempuan, Amy yang selalu mengatakan ketidakbenaran dan Sam yang selalu berbohong. Kamu tidak tahu yang mana. Kamu dapat mengajukan satu pertanyaan kepada salah satu saudara perempuan untuk mengetahui jalan mana yang menuju harta karun. Pertanyaan mana yang harus kamu ajukan untuk menemukan harta karun (jika dua atau lebih pertanyaan berhasil, jawaban yang benar adalah yang lebih pendek)?\nA. Apa yang akan dikatakan kakakmu jika aku bertanya padanya jalan mana yang menuju harta karun?\nB. Apa isi harta karun itu?\nC. Menurutmu, jalan mana yang akan aku ambil, jika kamu menebak?\nD. Jalan mana yang menuju harta karun?\nE. Siapa nama kakakmu?\nF. Berapa nomor kakakmu?\n",
+      "prompt": "Ada dua saudara perempuan, Amy yang selalu mengatakan ketidakbenaran dan Sam yang selalu berbohong. Anda tidak tahu yang mana. Anda dapat mengajukan satu pertanyaan kepada salah satu saudara perempuan untuk mengetahui jalan mana yang menuju harta karun. Pertanyaan mana yang harus Anda ajukan untuk menemukan harta karun (jika dua atau lebih pertanyaan berhasil, jawaban yang benar adalah yang lebih pendek)?\nA. Apa yang akan dikatakan kakakmu jika aku bertanya padanya jalan mana yang menuju harta karun?\nB. Apa isi harta karun itu?\nC. Menurutmu, jalan mana yang akan aku ambil, jika Anda menebak?\nD. Jalan mana yang menuju harta karun?\nE. Siapa nama kakakmu?\nF. Berapa nomor kakakmu?\n",
       "answer": "D"
     },
     {
