@@ -1,6 +1,8 @@
-# Simple Bench
+# Simple Bench (Indonesian Fork)
 
-https://simple-bench.com/
+This is a fork of [Simple Bench](https://github.com/simple-bench/simplebench), localized for Indonesian.
+
+Original website: https://simple-bench.com/
 
 ## Run Instructions
 
